@@ -1,4 +1,0 @@
-Translate "Analyzing Star Wars Movie Scripts" to python
-
-https://www.kaggle.com/xvivancos/analyzing-star-wars-movie-scripts
-

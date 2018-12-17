@@ -1,4 +1,0 @@
-Translate "Exploring Survival on the Titanic" to python
-
-https://www.kaggle.com/mrisdal/exploring-survival-on-the-titanic
-

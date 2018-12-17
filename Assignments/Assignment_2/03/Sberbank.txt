@@ -1,4 +1,0 @@
-Translate "Extensive Sberbank Exploratory Analysis" to python
-
-https://www.kaggle.com/captcalculator/a-very-extensive-sberbank-exploratory-analysis
-

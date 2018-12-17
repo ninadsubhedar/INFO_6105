@@ -1,5 +1,0 @@
-Translate "Google Analytics EDA" to python
-
-
-https://www.kaggle.com/erikbruin/google-analytics-eda-with-screenshots-of-the-app/notebook
-

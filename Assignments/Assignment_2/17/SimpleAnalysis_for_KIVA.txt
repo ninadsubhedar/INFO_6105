@@ -1,5 +1,0 @@
-Translate "SimpleAnalysis for KIVA" to python 
-
-https://www.kaggle.com/arjundas/simpleanalysis-for-kiva-its-time-for-africa
-
-

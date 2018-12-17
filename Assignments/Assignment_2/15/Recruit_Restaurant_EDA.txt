@@ -1,5 +1,0 @@
-Translate "Recruit Restaurant EDA" to python
-
-https://www.kaggle.com/headsortails/be-my-guest-recruit-restaurant-eda
-
-
